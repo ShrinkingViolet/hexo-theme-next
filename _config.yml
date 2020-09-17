@@ -40,8 +40,8 @@ custom_file_path:
 # ---------------------------------------------------------------
 
 favicon:
-  small: /uploads/Urara_16x16.ico
-  medium: /uploads/Urara_32x32.ico
+  small: /uploads/Urara16x16.ico
+  medium: /uploads/Urara32x32.ico
   apple_touch_icon: /uploads/apple-touch-icon-Urara.jpg
   safari_pinned_tab: /images/logo.svg
   #android_manifest: /images/manifest.json
