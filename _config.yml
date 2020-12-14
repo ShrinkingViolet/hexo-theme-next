@@ -40,9 +40,9 @@ custom_file_path:
 # ---------------------------------------------------------------
 
 favicon:
-  small: /uploads/Urara16x16.ico
-  medium: /uploads/Urara32x32.ico
-  apple_touch_icon: /uploads/apple-touch-icon-Urara.jpg
+  small: /images/Urara16x16.ico
+  medium: /images/Urara32x32.ico
+  apple_touch_icon: /images/apple-touch-icon-Urara.jpg
   safari_pinned_tab: /images/logo.svg
   #android_manifest: /images/manifest.json
   #ms_browserconfig: /images/browserconfig.xml
@@ -163,7 +163,7 @@ sidebar:
 # Sidebar Avatar
 avatar:
   # Replace the default image and set the url here.
-  url: /uploads/Urara.jpg
+  url: https://pics.shviolet.tk/origin/Urara.jpg
   # If true, the avatar will be dispalyed in circle.
   rounded: true
   # If true, the avatar will be rotated with the cursor.
